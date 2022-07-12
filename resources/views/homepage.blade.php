@@ -8,7 +8,7 @@
     </head>
     
     <body>
-        <h1>I nostri libri</h1>
+        <h1>I nostri Film</h1>
         <ul>
             @foreach ($movies as $movie)
                 <li>
